@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "83146452b28dbe6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5529fc39c5171900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57593a2109c1b893",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f838d50d0e55bb77",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa054bf62ec14c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e584357f6da4121",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9b60f7834b92885",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac7406a17d985f57",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0a4ec1a93f206b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ac09379d3fe903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf829a87987377cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "698aee06268ab1a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "31324e6d118272e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "43b7db3b66d90f8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "57593a2109c1b893",
+  "lastOpenFiles": [
+    "Aprende a Aprender/Aprende a Aprender.canvas",
+    "Aprende a Aprender/La sombra.md",
+    "Aprende a Aprender/Estrategias complejas y entrenamiento.md",
+    "Aprende a Aprender/Anomalías y adaptación.md",
+    "Aprende a Aprender/Anomalías.md",
+    "Aprende a Aprender/Almacenamiento de la memoria humana.md",
+    "Aprende a Aprender/¿Qué aprender primero?.md",
+    "Aprende a Aprender/¿Como aprendemos?.md",
+    "Aprende a Aprender/Fundamentos generales.md",
+    "Aprende a Aprender/Fundamentos internos.md",
+    "Aprende a Aprender/La importancia de la practica.md",
+    "Aprende a Aprender/Antagonismo.md",
+    "Aprende a Aprender/Sinergia.md",
+    "Aprende a Aprender/Memoria de trabajo.md",
+    "Aprende a Aprender/Memoria a largo plazo.md",
+    "Aprende a Aprender/src/paseo-en-bicicleta.png",
+    "Aprende a Aprender/Memoria muscular.md",
+    "Aprende a Aprender/Axiomas.md",
+    "Aprende a Aprender/Memoria procedimental.md",
+    "Aprende a Aprender/Memoria semántica.md",
+    "Aprende a Aprender/src/stop-signal.png",
+    "Aprende a Aprender/src",
+    "README.md",
+    "Aprende a Aprender"
+  ]
+}

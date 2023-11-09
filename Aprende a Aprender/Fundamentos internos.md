@@ -1,0 +1,1 @@
+Cuando encuentres los [[Fundamentos generales]] necesarios practicarlos y apréndelos, ve la forma de aislarlos y aprender en profundidad sus mecánicas para después integrarlos con los demás y así empaquetar todos juntos.

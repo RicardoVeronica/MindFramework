@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"30d97d36f588aea6","type":"file","file":"Aprende a Aprender/Almacenamiento de la memoria humana.md","x":-700,"y":-140,"width":568,"height":582},
+		{"id":"96a96400c55aae1c","type":"file","file":"Aprende a Aprender/Axiomas.md","x":-616,"y":560,"width":400,"height":400},
+		{"id":"dc63b7e22d7e83b4","type":"file","file":"Aprende a Aprender/¿Como aprendemos?.md","x":-616,"y":-800,"width":400,"height":481},
+		{"id":"5887e959cee154d7","type":"file","file":"Aprende a Aprender/Memoria a largo plazo.md","x":-20,"y":-49,"width":400,"height":400},
+		{"id":"663223f789c38553","type":"file","file":"Aprende a Aprender/Memoria procedimental.md","x":500,"y":-380,"width":400,"height":400},
+		{"id":"3e74b83e322f8dff","type":"file","file":"Aprende a Aprender/Memoria semántica.md","x":500,"y":280,"width":400,"height":400},
+		{"id":"c6ad6852a88e41d2","type":"text","text":"\n# Memoria sensorial\nMemoria a muy corto paso con los 5 sentidos","x":43,"y":464,"width":377,"height":176},
+		{"id":"c7173b29f5eed48b","type":"text","text":"\n# Memoria a corto plazo\nRetiene y procesa información por un breve periodo aproximadamente 1 minuto","x":55,"y":680,"width":353,"height":222},
+		{"id":"57121f6f7133f996","type":"file","file":"Aprende a Aprender/La importancia de la practica.md","x":1552,"y":-193,"width":400,"height":400},
+		{"id":"f2e4e07a255ed8be","type":"link","url":"https://youtu.be/qRKoWerpwV4","x":-736,"y":-1400,"width":640,"height":360},
+		{"id":"fa131b775df43ea9","x":1060,"y":-740,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/¿Qué aprender primero?.md"},
+		{"id":"342039d93862d383","x":1060,"y":-280,"width":400,"height":300,"type":"file","file":"Aprende a Aprender/Sinergia.md"},
+		{"id":"665ec9f5662d3a8d","x":1060,"y":101,"width":400,"height":213,"type":"file","file":"Aprende a Aprender/Antagonismo.md"},
+		{"id":"0f79cbe2bb19cefe","x":1552,"y":360,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/Memoria de trabajo.md"},
+		{"id":"1570d7f5a2151ba1","x":-2115,"y":-140,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/Anomalías y adaptación.md"},
+		{"id":"b226d2bb13753141","x":-2115,"y":391,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/Anomalías.md"},
+		{"id":"88bc2fb555cb38af","x":-2580,"y":-140,"width":400,"height":200,"type":"file","file":"Aprende a Aprender/Fundamentos internos.md"},
+		{"id":"cd1e8622908d02be","x":-2580,"y":-600,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/Fundamentos generales.md"},
+		{"id":"46db8100acb3c36f","x":-616,"y":1060,"width":400,"height":200,"type":"file","file":"Aprende a Aprender/Antagonismo.md"},
+		{"id":"fa69a582a011dcb9","x":993,"y":821,"width":400,"height":400,"type":"file","file":"Aprende a Aprender/Memoria de trabajo.md"},
+		{"id":"7fe36ec8e7491a48","type":"file","file":"Aprende a Aprender/Memoria muscular.md","x":-1220,"y":-3,"width":400,"height":309}
+	],
+	"edges":[
+		{"id":"4893d11df130ae24","fromNode":"30d97d36f588aea6","fromSide":"bottom","toNode":"96a96400c55aae1c","toSide":"top"},
+		{"id":"f15ace267eba2e52","fromNode":"dc63b7e22d7e83b4","fromSide":"bottom","toNode":"30d97d36f588aea6","toSide":"top"},
+		{"id":"083d9561421906f8","fromNode":"30d97d36f588aea6","fromSide":"right","toNode":"5887e959cee154d7","toSide":"left"},
+		{"id":"fb836831add65a51","fromNode":"5887e959cee154d7","fromSide":"right","toNode":"663223f789c38553","toSide":"left"},
+		{"id":"3861eb0a46597e75","fromNode":"5887e959cee154d7","fromSide":"right","toNode":"3e74b83e322f8dff","toSide":"left"},
+		{"id":"bb52d61e2170db8d","fromNode":"30d97d36f588aea6","fromSide":"left","toNode":"7fe36ec8e7491a48","toSide":"right"},
+		{"id":"9c07dbacb1a78d94","fromNode":"57121f6f7133f996","fromSide":"bottom","toNode":"0f79cbe2bb19cefe","toSide":"top"},
+		{"id":"5c3cfd1c7996f3af","fromNode":"fa131b775df43ea9","fromSide":"bottom","toNode":"342039d93862d383","toSide":"top"},
+		{"id":"69d260e6a785b83e","fromNode":"342039d93862d383","fromSide":"bottom","toNode":"665ec9f5662d3a8d","toSide":"top"},
+		{"id":"1e5086d43bf21d89","fromNode":"1570d7f5a2151ba1","fromSide":"bottom","toNode":"b226d2bb13753141","toSide":"top"},
+		{"id":"312ef9540f1cdedf","fromNode":"96a96400c55aae1c","fromSide":"bottom","toNode":"46db8100acb3c36f","toSide":"top"}
+	]
+}

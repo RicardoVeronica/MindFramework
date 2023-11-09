@@ -1,0 +1,10 @@
+{
+  "showLineNumber": false,
+  "spellcheck": true,
+  "autoPairMarkdown": false,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./src"
+}

@@ -1,0 +1,1 @@
+Lo contrario de [[Sinergia]], si en la sinergia el resultado era positivo al juntar cada elemento por separado, en el antagonismo el resultado es negativo por juntar los elementos por separado.

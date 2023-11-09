@@ -1,0 +1,3 @@
+Cuando te enfrentes a un área nueva de conocimiento, intenta encontrar tantas [[Anomalías]] como sea posible para adaptarlas a tu estrategia.
+
+A diferencia de los [[Fundamentos generales]], los [[Fundamentos internos]] y los [[Axiomas]] estos no se dan en una forma lógica, te encuentras con estas anomalías por accidente y lo único que puedes hacer con ellas es aprenderlas de memoria para aprovecharlas cuando sea el momento.
